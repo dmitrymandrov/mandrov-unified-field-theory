@@ -23,17 +23,17 @@ This repository contains the full set of theoretical papers authored by Dmitry A
 
 | № | Title | PDF | Pages | Equations |
 |--|-------|-----|--------|-----------|
-| 1 | Mandrov Coherent Field Theory (MCFT) | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/blob/main/Mandrov%20Coherent%20Field%20Theory%20(MCFT).pdf) | 3 | 4 |
-| 2 | Mandrov Coherent Gravity | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/blob/main/Mandrov%20Coherent%20Gravity.pdf) | 3 | 7 |
-| 3 | Mandrov Unified Coherent Field Theory | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/blob/main/Mandrov%20Unified%20Coherent%20Field%20Theory.pdf) | 4 | 14 |
-| 4 | MU-CFT II: Observer Field Dynamics | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/blob/main/MU-CFT%20II.pdf) | 3 | 4 |
-| 5 | MU-CFT III: Coherent Realities, Coherent Medicine, and Applied Transitions | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/blob/main/MU-CFT%20III.pdf) | 7 | 7 |
-| 6 | MU-CFT IV: Coherent Subjectivity and Perception | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/blob/main/MU-CFT%20IV.pdf) | 6 | 3 |
-| 7 | MU-CFT V: Coherent Singularities and the Topology of Black and White Holes | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/blob/main/MU-CFT%20V.pdf) | 5 | 5 |
-| 8 | MU-CFT VI: Artificial Coherent Agents and Subjective Simulation | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/blob/main/MU-CFT%20VI.pdf) | 5 | 3 |
-| 9 | MU-CFT VII: Social Fields and Intersubjective Coherence | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/blob/main/MU-CFT%20VII.pdf) | 6 | 1 |
-| 10 | MU-CFT VIII: Coherent Cosmogenesis and the Structure of All Realities | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/blob/main/MU-CFT%20VIII.pdf) | 5 | 7 |
-| 11 | Formalizing Objectivity in MU-CFT: Collapse, Coherence, and the Ontology of Potential Worlds | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/blob/main/Formalizing%20Objectivity.pdf) | 4 | 7 |
+| 1 | Mandrov Coherent Field Theory (MCFT) | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Mandrov%20Coherent%20Field%20Theory%20(MCFT).pdf) | 3 | 4 |
+| 2 | Mandrov Coherent Gravity | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Mandrov%20Coherent%20Gravity.pdf) | 3 | 7 |
+| 3 | Mandrov Unified Coherent Field Theory | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Mandrov%20Unified%20Coherent%20Field%20Theory.pdf) | 4 | 14 |
+| 4 | MU-CFT II: Observer Field Dynamics | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/MU-CFT%20II.pdf) | 3 | 4 |
+| 5 | MU-CFT III: Coherent Realities, Coherent Medicine, and Applied Transitions | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/MU-CFT%20III.pdf) | 7 | 7 |
+| 6 | MU-CFT IV: Coherent Subjectivity and Perception | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/MU-CFT%20IV.pdf) | 6 | 3 |
+| 7 | MU-CFT V: Coherent Singularities and the Topology of Black and White Holes | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/MU-CFT%20V.pdf) | 5 | 5 |
+| 8 | MU-CFT VI: Artificial Coherent Agents and Subjective Simulation | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/MU-CFT%20VI.pdf) | 5 | 3 |
+| 9 | MU-CFT VII: Social Fields and Intersubjective Coherence | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/MU-CFT%20VII.pdf) | 6 | 1 |
+| 10 | MU-CFT VIII: Coherent Cosmogenesis and the Structure of All Realities | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/MU-CFT%20VIII.pdf) | 5 | 7 |
+| 11 | Formalizing Objectivity in MU-CFT: Collapse, Coherence, and the Ontology of Potential Worlds | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Formalizing%20Objectivity.pdf) | 4 | 7 |
 
 ---
 
