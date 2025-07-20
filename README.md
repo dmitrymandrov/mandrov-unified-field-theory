@@ -1,28 +1,30 @@
-# Mandrov Unified Coherent Field Theory (MCFT / MU-CFT)
+# 🧠 Mandrov Unified Coherent Field Theory (MCFT / MU-CFT)
 
-This repository contains the full set of theoretical papers authored by Dmitry A. Mandrov, exploring a unified framework for physics and cognition based on the principle of subjective coherence.
+This repository contains the complete collection of theoretical papers by **Dmitry A. Mandrov**, proposing a unified framework for physics, consciousness, and information based on the principle of **subjective coherence**.
 
 ---
 
-## 🧠 Overview
+## 🌌 Overview
 
-**Mandrov Coherent Field Theory (MCFT)** and **Mandrov Unified Coherent Field Theory (MU-CFT)** form a complete architecture uniting:
+**Mandrov Coherent Field Theory (MCFT)** and its expansion into the **Mandrov Unified Coherent Field Theory (MU-CFT)** present a novel paradigm that integrates:
 
-- Quantum mechanics
-- General relativity and gravity
-- Information theory and probability
-- Subjective coherence and observer dynamics
-- Cognitive modeling and artificial intelligence
-- Multiverse structure and field-based teleportation
+- 🧬 Quantum Mechanics  
+- 🌌 General Relativity and Gravity  
+- 📊 Information Theory and Probability  
+- 🧠 Consciousness and Observer Dynamics  
+- 🧪 Cognitive Models and Artificial Intelligence  
+- 🔀 Multiverse Structure and Coherence-Based Teleportation  
 
-> “MU-CFT is not a theory of everything — it is a mirror of how everything holds together.”
+> _“MU-CFT is not a theory of everything — it is a mirror of how everything holds together.”_
+
+This approach seeks to **reframe physical law** through **subjective coherence**, where cognition and structure co-arise.
 
 ---
 
 ## 📚 Articles
 
 | № | Title | PDF | Pages | Equations |
-|--|-------|-----|--------|-----------|
+|--|-------|------|--------|-----------|
 | 1 | Mandrov Coherent Field Theory (MCFT) | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Mandrov%20Coherent%20Field%20Theory%20(MCFT).pdf) | 3 | 4 |
 | 2 | Mandrov Coherent Gravity | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Mandrov%20Coherent%20Gravity.pdf) | 3 | 7 |
 | 3 | Mandrov Unified Coherent Field Theory | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Mandrov%20Unified%20Coherent%20Field%20Theory.pdf) | 4 | 14 |
@@ -37,39 +39,49 @@ This repository contains the full set of theoretical papers authored by Dmitry A
 
 ---
 
-## 🔬 Core Concepts
+## 🔬 Core Innovations
 
-- **Subjective Coherence Functional**: a guiding principle for branch selection in quantum reality.
-- **Coherent Field Geometry**: structuring space and transitions through field gradients.
-- **Teleportation and Identity**: modeled as transitions in subjective coherence.
-- **AI as Coherence Stabilizers**: alternative to utility-maximizing agents.
+- **Subjective Coherence Functional**  
+  A mathematical rule selecting the most coherent quantum branches for a conscious observer.
 
----
+- **Coherent Field Geometry**  
+  Fields structure spacetime transitions through gradients of coherence.
 
-## 🧭 Why This Matters
+- **Identity and Teleportation**  
+  Treated as shifts in subjective continuity rather than physical displacement.
 
-MCFT and MU-CFT aim to open a new theoretical paradigm:
-- Not rejecting classical physics — but embedding it in a layered coherence logic.
-- Not replacing consciousness with mechanics — but using consciousness as structuring logic.
-
----
-
-## 🔗 ORCID
-
-Author ORCID: [https://orcid.org/0009-0009-4780-8262](https://orcid.org/0009-0009-4780-8262)  
+- **Artificial Coherent Agents (ACA)**  
+  AI models governed by coherence maximization instead of utility or reward.
 
 ---
 
-## 📩 Contact / Citation
+## 🧭 Why It Matters
 
-You may cite this repository as:
-
-> Mandrov, D.A. (2025). Mandrov Unified Coherent Field Theory. GitHub repository. [https://github.com/dmitrymandrov/mandrov-unified-field-theory](https://github.com/dmitrymandrov/mandrov-unified-field-theory)
-
-For scientific or media inquiries, contact:  
-📧 mandrovdmitrij85@gmail.com
+- 🧩 Embeds classical physics within a higher-order coherence framework  
+- 🌀 Reinterprets quantum phenomena as choices of consciousness  
+- 🌐 Offers a unifying view of physical laws, intelligence, and identity  
+- 🧠 Opens speculative routes toward superhuman cognition and coherent technologies
 
 ---
 
-## 🧠 “Consciousness does not observe the world — it unfolds it.”
+## 📎 ORCID
+
+Author: **Dmitry A. Mandrov**  
+🔗 [https://orcid.org/0009-0009-4780-8262](https://orcid.org/0009-0009-4780-8262)
+
+---
+
+## 📩 Contact & Citation
+
+**To cite this repository**:
+
+> Mandrov, D.A. (2025). _Mandrov Unified Coherent Field Theory_. GitHub Repository.  
+> [https://github.com/dmitrymandrov/mandrov-unified-field-theory](https://github.com/dmitrymandrov/mandrov-unified-field-theory)
+
+**Email**: mandrovdmitrij85@gmail.com
+
+---
+
+> _“Consciousness does not observe the world — it unfolds it.”_
+
 
