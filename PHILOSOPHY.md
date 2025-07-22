@@ -1,4 +1,4 @@
-# 🧠 Philosophical Interpretation of Mandrov Unified Coherent Field Theory (MU-CFT)
+# Philosophical Interpretation of Mandrov Unified Coherent Field Theory (MU-CFT)
 
 ## Consciousness, Coherence, and Reality: The Ontological Basis of MU-CFT
 
