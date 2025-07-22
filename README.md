@@ -84,4 +84,7 @@ Author: **Dmitry A. Mandrov**
 
 > _“Consciousness does not observe the world — it unfolds it.”_
 
+---
+
+For the ontological and philosophical background of the theory, see [PHILOSOPHY.md](https://github.com/dmitrymandrov/mandrov-unified-field-theory/blob/main/PHILOSOPHY.md).
 
