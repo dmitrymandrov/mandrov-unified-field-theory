@@ -82,7 +82,7 @@ Author: **Dmitry A. Mandrov**
 > Mandrov, D.A. (2025). _Mandrov Unified Coherent Field Theory_. GitHub Repository.  
 > [https://github.com/dmitrymandrov/mandrov-unified-field-theory](https://github.com/dmitrymandrov/mandrov-unified-field-theory)
 
-**Email**: mandrovdmitrij85@gmail.com
+**Email**: mandrov.research@gmail.com
 
 ---
 
