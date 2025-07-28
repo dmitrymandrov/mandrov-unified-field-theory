@@ -90,7 +90,7 @@ Author: **Dmitry A. Mandrov**
 
 ---
 
-## Other Files
+## 📚 Other Files
 
 | № | Title | File |
 |--|-------|------|
