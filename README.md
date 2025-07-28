@@ -94,5 +94,5 @@ Author: **Dmitry A. Mandrov**
 
 | № | Title | File |
 |--|-------|------|
-| 1 | Lagrangian Structure and Coherence Dynamics | [PNG](https://github.com/dmitrymandrov/mandrov-unified-field-theory/blob/main/Lagrangian%20Structure%20and%20Coherence%20Dynamics.png) |
+| 1 | Lagrangian Structure and Coherence Dynamics | [PNG](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Lagrangian%20Structure%20and%20Coherence%20Dynamics.png) |
 | 2 | Temporal Evolution of Coherent Realization | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Temporal%20Evolution%20of%20Coherent%20Realization.pdf) |
