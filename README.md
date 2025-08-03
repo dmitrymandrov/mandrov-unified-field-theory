@@ -12,12 +12,12 @@ This repository contains the complete collection of theoretical papers by **Dmit
 
 **Mandrov Coherent Field Theory (MCFT)** and its expansion into the **Mandrov Unified Coherent Field Theory (MU-CFT)** present a novel paradigm that integrates:
 
-- 🧬 Quantum Mechanics  
-- 🌌 General Relativity and Gravity  
-- 📊 Information Theory and Probability  
-- 🧠 Consciousness and Observer Dynamics  
-- 🧪 Cognitive Models and Artificial Intelligence  
-- 🔀 Multiverse Structure and Coherence-Based Teleportation  
+- Quantum Mechanics  
+- General Relativity and Gravity  
+- Information Theory and Probability  
+- Consciousness and Observer Dynamics  
+- Cognitive Models and Artificial Intelligence  
+- Multiverse Structure and Coherence-Based Teleportation  
 
 > _“MU-CFT is not a theory of everything — it is a mirror of how everything holds together.”_
 
@@ -62,10 +62,10 @@ This approach seeks to **reframe physical law** through **subjective coherence**
 
 ## 🧭 Why It Matters
 
-- 🧩 Embeds classical physics within a higher-order coherence framework  
-- 🌀 Reinterprets quantum phenomena as choices of consciousness  
-- 🌐 Offers a unifying view of physical laws, intelligence, and identity  
-- 🧠 Opens speculative routes toward superhuman cognition and coherent technologies
+- Embeds classical physics within a higher-order coherence framework  
+- Reinterprets quantum phenomena as choices of consciousness  
+- Offers a unifying view of physical laws, intelligence, and identity  
+- Opens speculative routes toward superhuman cognition and coherent technologies
 
 ---
 
