@@ -40,7 +40,7 @@ This approach seeks to **reframe physical law** through **subjective coherence**
 | 9 | MU-CFT VII: Social Fields and Intersubjective Coherence | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/MU-CFT%20VII.pdf) | 6 | 1 |
 | 10 | MU-CFT VIII: Coherent Cosmogenesis and the Structure of All Realities | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/MU-CFT%20VIII.pdf) | 5 | 7 |
 | 11 | Formalizing Objectivity in MU-CFT: Collapse, Coherence, and the Ontology of Potential Worlds | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Formalizing%20Objectivity.pdf) | 4 | 7 |
-| 12 | Observer-Driven Coherence as a Foundation of Physical Realization in Mandrov Unified Coherent Field Theory | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Observer-Driven%20Coherence%20as%20a%20Foundation%20of%20Physical%20Realization.pdf) | 3 | 3 |
+| 12 | Observer-Driven Coherence as a Foundation of Physical Realization in MU-CFT | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Observer-Driven%20Coherence%20as%20a%20Foundation%20of%20Physical%20Realization.pdf) | 3 | 3 |
 
 ---
 
