@@ -98,3 +98,4 @@ Author: **Dmitry A. Mandrov**
 | 1 | Lagrangian Structure and Coherence Dynamics | [PNG](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Lagrangian%20Structure%20and%20Coherence%20Dynamics.png) |
 | 2 | Temporal Evolution of Coherent Realization | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Temporal%20Evolution%20of%20Coherent%20Realization.pdf) |
 | 3 | Comparison of MU-CFT and General Relativity: Coherent vs Classical Gravity | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Comparison%20of%20MU-CFT%20and%20General%20Relativity.pdf) |
+| 4 | Fundamental Constants as Emergent Parameters in MU-CFT | [PDF](https://github.com/dmitrymandrov/mandrov-unified-field-theory/raw/main/Fundamental%20Constants%20as%20Emergent%20Parameters%20in%20MU-CFT.pdf) |
