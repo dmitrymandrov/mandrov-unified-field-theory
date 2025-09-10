@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "_Mandrov Unified Coherent Field Theory (MU-CFT)_"
+title: "Mandrov Unified Coherent Field Theory (MU-CFT)"
 authors:
   - family-names: Mandrov
     given-names: Dmitry A.
@@ -25,7 +25,7 @@ preferred-citation:
   authors:
     - family-names: Mandrov
       given-names: Dmitry A.
-  title: "_Mandrov Unified Coherent Field Theory (MU-CFT)_"
+  title: "Mandrov Unified Coherent Field Theory (MU-CFT)"
   version: "1.0"
   date-released: 2025-07-20
   url: https://github.com/dmitrymandrov/mandrov-unified-field-theory
