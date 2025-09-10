@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "Mandrov Unified Coherent Field Theory (MU-CFT)"
+title: "_Mandrov Unified Coherent Field Theory (MU-CFT)_"
 authors:
   - family-names: Mandrov
     given-names: Dmitry A.
@@ -12,7 +12,6 @@ url: https://github.com/dmitrymandrov/mandrov-unified-field-theory
 license: MIT
 abstract: >
   A unified theoretical framework combining quantum mechanics, general relativity, information theory, and subjective observer dynamics. The MU-CFT architecture integrates consciousness as a structuring principle for coherent field transitions and proposes a new pathway toward quantum gravity and multiverse modeling.
-
 keywords:
   - unified field theory
   - coherence
@@ -21,3 +20,12 @@ keywords:
   - subjective field theory
   - multiverse
   - consciousness
+preferred-citation:
+  type: "software"
+  authors:
+    - family-names: Mandrov
+      given-names: Dmitry A.
+  title: "_Mandrov Unified Coherent Field Theory (MU-CFT)_"
+  version: "1.0"
+  date-released: 2025-07-20
+  url: https://github.com/dmitrymandrov/mandrov-unified-field-theory
