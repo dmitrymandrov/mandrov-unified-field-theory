@@ -2,7 +2,7 @@ For the ontological and philosophical background of the theory, see [PHILOSOPHY.
 
 ---
 
-# Mandrov Unified Coherent Field Theory (MCFT / MU-CFT)
+# Mandrov Unified Coherent Field Theory (MU-CFT)
 
 This repository contains the complete collection of theoretical papers by **Dmitry A. Mandrov**, proposing a unified framework for physics, consciousness, and information based on the principle of **subjective coherence**.
 
@@ -80,7 +80,7 @@ Author: **Dmitry A. Mandrov**
 
 **To cite this repository**:
 
-> Mandrov, D.A. (2025). _Mandrov Unified Coherent Field Theory_. GitHub Repository.  
+> Mandrov, D.A. (2025). _Mandrov Unified Coherent Field Theory (MU-CFT)_. GitHub Repository.  
 > [https://github.com/dmitrymandrov/mandrov-unified-field-theory](https://github.com/dmitrymandrov/mandrov-unified-field-theory)
 
 **Email**: mandrov.research@gmail.com
